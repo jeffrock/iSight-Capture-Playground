@@ -1,0 +1,198 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* iSightCaptureAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 678}}";
+			sepNavSelRange = "{659, 0}";
+			sepNavVisRange = "{0, 665}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* iSightCaptureAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 2288}}";
+			sepNavSelRange = "{4604, 0}";
+			sepNavVisRange = "{1714, 1814}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = EC175BA610039CAD0017A333 /* iSightCapture */;
+		activeTarget = 8D1107260486CEB800E47090 /* iSightCapture */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* iSightCapture */,
+		);
+		breakpoints = (
+			EC929AD2100629B8007EC235 /* iSightCaptureAppDelegate.m:130 */,
+		);
+		codeSenseManager = EC175BB910039CB70017A333 /* Code sense */;
+		executables = (
+			EC175BA610039CAD0017A333 /* iSightCapture */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					993,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					953,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 268876460;
+			PBXWorkspaceStateSaveDate = 268876460;
+		};
+		perUserProjectItems = {
+			EC929B791006334C007EC235 /* PBXBookmark */ = EC929B791006334C007EC235 /* PBXBookmark */;
+			ECFCC67810076A0500CA202C /* PBXBookmark */ = ECFCC67810076A0500CA202C /* PBXBookmark */;
+			ECFCC67910076A0500CA202C /* PBXTextBookmark */ = ECFCC67910076A0500CA202C /* PBXTextBookmark */;
+			ECFCC67A10076A0500CA202C /* PBXTextBookmark */ = ECFCC67A10076A0500CA202C /* PBXTextBookmark */;
+			ECFCC67B10076A0500CA202C /* PBXTextBookmark */ = ECFCC67B10076A0500CA202C /* PBXTextBookmark */;
+		};
+		sourceControlManager = EC175BB810039CB70017A333 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* iSightCapture */ = {
+		activeExec = 0;
+		executables = (
+			EC175BA610039CAD0017A333 /* iSightCapture */,
+		);
+	};
+	EC175BA610039CAD0017A333 /* iSightCapture */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iSightCapture;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	EC175BB810039CB70017A333 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	EC175BB910039CB70017A333 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	EC929AD2100629B8007EC235 /* iSightCaptureAppDelegate.m:130 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 256AC3D90F4B6AC300CF3369 /* iSightCaptureAppDelegate.m */;
+		functionName = "-capturePhoto:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 130;
+		location = iSightCapture;
+		modificationTime = 268839380.644312;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	EC929B791006334C007EC235 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EC9298F010041D85007EC235 /* movieBtn_red_norm.png */;
+	};
+	ECFCC67810076A0500CA202C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EC9298F910041E99007EC235 /* stopBtn.png */;
+	};
+	ECFCC67910076A0500CA202C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* iSightCaptureAppDelegate.h */;
+		name = "iSightCaptureAppDelegate.h: 27";
+		rLen = 0;
+		rLoc = 659;
+		rType = 0;
+		vrLen = 665;
+		vrLoc = 0;
+	};
+	ECFCC67A10076A0500CA202C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* iSightCaptureAppDelegate.m */;
+		name = "iSightCaptureAppDelegate.m: 32";
+		rLen = 0;
+		rLoc = 712;
+		rType = 0;
+		vrLen = 1372;
+		vrLoc = 182;
+	};
+	ECFCC67B10076A0500CA202C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* iSightCaptureAppDelegate.m */;
+		name = "iSightCaptureAppDelegate.m: 134";
+		rLen = 0;
+		rLoc = 4604;
+		rType = 0;
+		vrLen = 1814;
+		vrLoc = 1714;
+	};
+}

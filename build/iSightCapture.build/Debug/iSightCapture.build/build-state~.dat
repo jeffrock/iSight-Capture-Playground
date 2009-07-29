@@ -1,0 +1,276 @@
+TiSightCapture
+v7
+r0
+t268839128.637934
+cCheck dependencies
+cProcessInfoPlistFile /Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app/Contents/Info.plist iSightCapture-Info.plist
+cCopyStringsFile /Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/rock711/Desktop/iSightCapture/English.lproj/MainMenu.xib
+cCpResource build/Debug/iSightCapture.app/Contents/Resources/action.aiff action.aiff
+cCpResource build/Debug/iSightCapture.app/Contents/Resources/movieBtn_red_norm.png movieBtn_red_norm.png
+cCpResource build/Debug/iSightCapture.app/Contents/Resources/stopBtn.png stopBtn.png
+cProcessPCH /var/folders/fx/fx6g98F1ESSVG6AquEQtOU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSightCapture_Prefix-fhbfxaszdltmpjawwbtqudmwbycs/iSightCapture_Prefix.pch.gch iSightCapture_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSightCapture.build/Debug/iSightCapture.build/Objects-normal/x86_64/main.o /Users/rock711/Desktop/iSightCapture/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iSightCapture.build/Debug/iSightCapture.build/Objects-normal/x86_64/iSightCaptureAppDelegate.o /Users/rock711/Desktop/iSightCapture/iSightCaptureAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app/Contents/MacOS/iSightCapture normal x86_64
+cTouch /Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A420A0000000000000000EE
+t1245841920
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QTKit.framework/Headers/QTKit.h
+c000000004A419A41000000000000044A
+t1245813313
+s1098
+
+N/Library/Frameworks/BWToolkitFramework.framework/BWToolkitFramework
+c000000004A3AC69C00000000000E7DD4
+t1245365916
+s949716
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c000000004A419A370000000000643AA0
+t1245813303
+s6568608
+
+N/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A41DF700000000000CE65E0
+t1245831024
+s13526496
+
+N/Users/rock711/Desktop/iSightCapture/English.lproj/InfoPlist.strings
+c000000004A53652C000000000000002D
+t1246979372
+s45
+
+N/Users/rock711/Desktop/iSightCapture/English.lproj/MainMenu.xib
+c000000004A55F148000000000002F13A
+t1247146312
+s192826
+
+N/Users/rock711/Desktop/iSightCapture/action.aiff
+c000000004A403E570000000000000192
+t1245724247
+s402
+
+N/Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app
+t1247146328
+s102
+
+N/Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app/Contents/Info.plist
+t1247146320
+s904
+
+N/Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app/Contents/MacOS/iSightCapture
+t1247146328
+s22528
+
+N/Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app/Contents/PkgInfo
+t1247146320
+s8
+
+N/Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1247146321
+s92
+
+N/Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app/Contents/Resources/English.lproj/MainMenu.nib
+t1247146321
+s36567
+
+N/Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app/Contents/Resources/action.aiff
+t1247146321
+s402
+
+N/Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app/Contents/Resources/movieBtn_red_norm.png
+t1247146321
+s2415
+
+N/Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app/Contents/Resources/stopBtn.png
+t1247146321
+s2141
+
+N/Users/rock711/Desktop/iSightCapture/build/iSightCapture.build/Debug/iSightCapture.build/Objects-normal/x86_64/iSightCapture.LinkFileList
+c000000004A55F1500000000000000100
+t1247146320
+s256
+
+N/Users/rock711/Desktop/iSightCapture/build/iSightCapture.build/Debug/iSightCapture.build/Objects-normal/x86_64/iSightCaptureAppDelegate.o
+t1247146328
+s44668
+
+N/Users/rock711/Desktop/iSightCapture/build/iSightCapture.build/Debug/iSightCapture.build/Objects-normal/x86_64/main.o
+t1247146328
+s4984
+
+N/Users/rock711/Desktop/iSightCapture/iSightCaptureAppDelegate.h
+c000000004A55EE7100000000000002E6
+t1247145585
+s742
+i<Cocoa/Cocoa.h>
+i<QTKit/QTkit.h>
+
+N/Users/rock711/Desktop/iSightCapture/iSightCaptureAppDelegate.m
+c000000004A55EF500000000000001758
+t1247145808
+s5976
+i"iSightCaptureAppDelegate.h"
+
+N/Users/rock711/Desktop/iSightCapture/iSightCapture_Prefix.pch
+c000000004A53652C000000000000009D
+t1246979372
+s157
+i<Cocoa/Cocoa.h>
+
+N/Users/rock711/Desktop/iSightCapture/main.m
+c000000004A53652D00000000000000F5
+t1246979373
+s245
+i<Cocoa/Cocoa.h>
+
+N/Users/rock711/Desktop/iSightCapture/movieBtn_red_norm.png
+c000000004A403E57000000000000096F
+t1245724247
+s2415
+
+N/Users/rock711/Desktop/iSightCapture/stopBtn.png
+c000000004A403E57000000000000085D
+t1245724247
+s2141
+
+N/var/folders/fx/fx6g98F1ESSVG6AquEQtOU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSightCapture_Prefix-fhbfxaszdltmpjawwbtqudmwbycs/iSightCapture_Prefix.pch.gch
+t1247146328
+s54228752
+
+NiSightCapture-Info.plist
+c000000004A53652C00000000000003EA
+t1246979372
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies268839120#268839120#0(0"0(0#1#0"4300882496#0"0#
+
+CCompileC build/iSightCapture.build/Debug/iSightCapture.build/Objects-normal/x86_64/iSightCaptureAppDelegate.o /Users/rock711/Desktop/iSightCapture/iSightCaptureAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s268839128.339613
+e268839128.585516
+r1
+xCompileC
+xbuild/iSightCapture.build/Debug/iSightCapture.build/Objects-normal/x86_64/iSightCaptureAppDelegate.o
+x/Users/rock711/Desktop/iSightCapture/iSightCaptureAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/rock711/Desktop/iSightCapture/iSightCaptureAppDelegate.m268839128#268839128#0(0"0(0#0#63"/Users/rock711/Desktop/iSightCapture/iSightCaptureAppDelegate.m4300882496#1588"    cd /Users/rock711/Desktop/iSightCapture    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/rock711/Desktop/iSightCapture/build/iSightCapture.build/Debug/iSightCapture.build/iSightCapture-generated-files.hmap -I/Users/rock711/Desktop/iSightCapture/build/iSightCapture.build/Debug/iSightCapture.build/iSightCapture-own-target-headers.hmap -I/Users/rock711/Desktop/iSightCapture/build/iSightCapture.build/Debug/iSightCapture.build/iSightCapture-all-target-headers.hmap -iquote /Users/rock711/Desktop/iSightCapture/build/iSightCapture.build/Debug/iSightCapture.build/iSightCapture-project-headers.hmap -F/Users/rock711/Desktop/iSightCapture/build/Debug -I/Users/rock711/Desktop/iSightCapture/build/Debug/include -I/Users/rock711/Desktop/iSightCapture/build/iSightCapture.build/Debug/iSightCapture.build/DerivedSources/x86_64 -I/Users/rock711/Desktop/iSightCapture/build/iSightCapture.build/Debug/iSightCapture.build/DerivedSources -include /var/folders/fx/fx6g98F1ESSVG6AquEQtOU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSightCapture_Prefix-fhbfxaszdltmpjawwbtqudmwbycs/iSightCapture_Prefix.pch -c /Users/rock711/Desktop/iSightCapture/iSightCaptureAppDelegate.m -o /Users/rock711/Desktop/iSightCapture/build/iSightCapture.build/Debug/iSightCapture.build/Objects-normal/x86_64/iSightCaptureAppDelegate.o0#
+
+CCompileC build/iSightCapture.build/Debug/iSightCapture.build/Objects-normal/x86_64/main.o /Users/rock711/Desktop/iSightCapture/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s268839128.338530
+e268839128.577442
+r1
+xCompileC
+xbuild/iSightCapture.build/Debug/iSightCapture.build/Objects-normal/x86_64/main.o
+x/Users/rock711/Desktop/iSightCapture/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/rock711/Desktop/iSightCapture/main.m268839128#268839128#0(0"0(0#0#43"/Users/rock711/Desktop/iSightCapture/main.m4300882496#1548"    cd /Users/rock711/Desktop/iSightCapture    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/rock711/Desktop/iSightCapture/build/iSightCapture.build/Debug/iSightCapture.build/iSightCapture-generated-files.hmap -I/Users/rock711/Desktop/iSightCapture/build/iSightCapture.build/Debug/iSightCapture.build/iSightCapture-own-target-headers.hmap -I/Users/rock711/Desktop/iSightCapture/build/iSightCapture.build/Debug/iSightCapture.build/iSightCapture-all-target-headers.hmap -iquote /Users/rock711/Desktop/iSightCapture/build/iSightCapture.build/Debug/iSightCapture.build/iSightCapture-project-headers.hmap -F/Users/rock711/Desktop/iSightCapture/build/Debug -I/Users/rock711/Desktop/iSightCapture/build/Debug/include -I/Users/rock711/Desktop/iSightCapture/build/iSightCapture.build/Debug/iSightCapture.build/DerivedSources/x86_64 -I/Users/rock711/Desktop/iSightCapture/build/iSightCapture.build/Debug/iSightCapture.build/DerivedSources -include /var/folders/fx/fx6g98F1ESSVG6AquEQtOU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSightCapture_Prefix-fhbfxaszdltmpjawwbtqudmwbycs/iSightCapture_Prefix.pch -c /Users/rock711/Desktop/iSightCapture/main.m -o /Users/rock711/Desktop/iSightCapture/build/iSightCapture.build/Debug/iSightCapture.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/rock711/Desktop/iSightCapture/English.lproj/MainMenu.xib
+s268839120.689779
+e268839121.248135
+r1
+xCompileXIB
+x/Users/rock711/Desktop/iSightCapture/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.notices */
+o/Users/rock711/Desktop/iSightCapture/English.lproj/MainMenu.xib:535: note: This view is clipping its content.
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib268839120#268839121#0(150"/* com.apple.ibtool.document.notices *//Users/rock711/Desktop/iSightCapture/English.lproj/MainMenu.xib:535: note: This view is clipping its content.1(13@34"This view is clipping its content.268839121#18446744073709551615#0#0(6@63"/Users/rock711/Desktop/iSightCapture/English.lproj/MainMenu.xib268839112#535#0#535#0#0"0(0#0#63"/Users/rock711/Desktop/iSightCapture/English.lproj/MainMenu.xib4300882496#327"    cd /Users/rock711/Desktop/iSightCapture    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app/Contents/Resources/English.lproj/MainMenu.nib /Users/rock711/Desktop/iSightCapture/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile /Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s268839120.688417
+e268839121.096188
+r1
+xCopyStringsFile
+x/Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings268839120#268839121#0(0"0(0#0#68"/Users/rock711/Desktop/iSightCapture/English.lproj/InfoPlist.strings4300882496#367"    cd /Users/rock711/Desktop/iSightCapture    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/iSightCapture.app/Contents/Resources/action.aiff action.aiff
+s268839121.096282
+e268839121.136803
+r1
+xCpResource
+xbuild/Debug/iSightCapture.app/Contents/Resources/action.aiff
+xaction.aiff
+lSLF07#2@16"Copy action.aiff268839121#268839121#0(0"0(0#0#48"/Users/rock711/Desktop/iSightCapture/action.aiff4300882496#327"    cd /Users/rock711/Desktop/iSightCapture    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/rock711/Desktop/iSightCapture/action.aiff /Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app/Contents/Resources0#
+
+CCpResource build/Debug/iSightCapture.app/Contents/Resources/movieBtn_red_norm.png movieBtn_red_norm.png
+s268839121.096942
+e268839121.136455
+r1
+xCpResource
+xbuild/Debug/iSightCapture.app/Contents/Resources/movieBtn_red_norm.png
+xmovieBtn_red_norm.png
+lSLF07#2@26"Copy movieBtn_red_norm.png268839121#268839121#0(0"0(0#0#58"/Users/rock711/Desktop/iSightCapture/movieBtn_red_norm.png4300882496#337"    cd /Users/rock711/Desktop/iSightCapture    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/rock711/Desktop/iSightCapture/movieBtn_red_norm.png /Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app/Contents/Resources0#
+
+CCpResource build/Debug/iSightCapture.app/Contents/Resources/stopBtn.png stopBtn.png
+s268839121.097557
+e268839121.136619
+r1
+xCpResource
+xbuild/Debug/iSightCapture.app/Contents/Resources/stopBtn.png
+xstopBtn.png
+lSLF07#2@16"Copy stopBtn.png268839121#268839121#0(0"0(0#0#48"/Users/rock711/Desktop/iSightCapture/stopBtn.png4300882496#327"    cd /Users/rock711/Desktop/iSightCapture    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/rock711/Desktop/iSightCapture/stopBtn.png /Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app/Contents/Resources0#
+
+CLd /Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app/Contents/MacOS/iSightCapture normal x86_64
+s268839128.585612
+e268839128.634378
+r1
+xLd
+x/Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app/Contents/MacOS/iSightCapture
+xnormal
+xx86_64
+lSLF07#2@100"Link /Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app/Contents/MacOS/iSightCapture268839128#268839128#0(0"0(0#0#0"4300882496#601"    cd /Users/rock711/Desktop/iSightCapture    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/rock711/Desktop/iSightCapture/build/Debug -F/Users/rock711/Desktop/iSightCapture/build/Debug -filelist /Users/rock711/Desktop/iSightCapture/build/iSightCapture.build/Debug/iSightCapture.build/Objects-normal/x86_64/iSightCapture.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework QTKit -framework QuartzCore -o /Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app/Contents/MacOS/iSightCapture0#
+
+CProcessInfoPlistFile /Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app/Contents/Info.plist iSightCapture-Info.plist
+s268839120.681508
+e268839120.688327
+r1
+xProcessInfoPlistFile
+x/Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app/Contents/Info.plist
+xiSightCapture-Info.plist
+lSLF07#2@32"Process iSightCapture-Info.plist268839120#268839120#0(0"0(0#0#61"/Users/rock711/Desktop/iSightCapture/iSightCapture-Info.plist4300882496#322"    cd /Users/rock711/Desktop/iSightCapture    builtin-infoPlistUtility iSightCapture-Info.plist -genpkginfo /Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/fx/fx6g98F1ESSVG6AquEQtOU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSightCapture_Prefix-fhbfxaszdltmpjawwbtqudmwbycs/iSightCapture_Prefix.pch.gch iSightCapture_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s268839121.248253
+e268839128.338283
+r1
+xProcessPCH
+x/var/folders/fx/fx6g98F1ESSVG6AquEQtOU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSightCapture_Prefix-fhbfxaszdltmpjawwbtqudmwbycs/iSightCapture_Prefix.pch.gch
+xiSightCapture_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile iSightCapture_Prefix.pch268839121#268839128#0(0"0(0#0#61"/Users/rock711/Desktop/iSightCapture/iSightCapture_Prefix.pch4300882496#1450"    cd /Users/rock711/Desktop/iSightCapture    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/rock711/Desktop/iSightCapture/build/iSightCapture.build/Debug/iSightCapture.build/iSightCapture-generated-files.hmap -I/Users/rock711/Desktop/iSightCapture/build/iSightCapture.build/Debug/iSightCapture.build/iSightCapture-own-target-headers.hmap -I/Users/rock711/Desktop/iSightCapture/build/iSightCapture.build/Debug/iSightCapture.build/iSightCapture-all-target-headers.hmap -iquote /Users/rock711/Desktop/iSightCapture/build/iSightCapture.build/Debug/iSightCapture.build/iSightCapture-project-headers.hmap -F/Users/rock711/Desktop/iSightCapture/build/Debug -I/Users/rock711/Desktop/iSightCapture/build/Debug/include -I/Users/rock711/Desktop/iSightCapture/build/iSightCapture.build/Debug/iSightCapture.build/DerivedSources/x86_64 -I/Users/rock711/Desktop/iSightCapture/build/iSightCapture.build/Debug/iSightCapture.build/DerivedSources -c /Users/rock711/Desktop/iSightCapture/iSightCapture_Prefix.pch -o /var/folders/fx/fx6g98F1ESSVG6AquEQtOU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iSightCapture_Prefix-fhbfxaszdltmpjawwbtqudmwbycs/iSightCapture_Prefix.pch.gch0#
+
+CTouch /Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app
+s268839128.634474
+e268839128.637903
+r1
+xTouch
+x/Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app
+lSLF07#2@72"Touch /Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app268839128#268839128#0(0"0(0#0#0"4300882496#133"    cd /Users/rock711/Desktop/iSightCapture    /usr/bin/touch -c /Users/rock711/Desktop/iSightCapture/build/Debug/iSightCapture.app0#
+
